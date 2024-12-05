@@ -103,7 +103,7 @@
 		<apache-ldap-api-all.version>2.1.2</apache-ldap-api-all.version>
 
 		<!-- Logging -->
-		<logback.version>1.2.11</logback.version>
+		<logback.version>1.4.1</logback.version>
 
 		<!-- Testing -->
 		<junit.version>4.13.2</junit.version>
