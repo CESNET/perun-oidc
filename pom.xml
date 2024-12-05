@@ -85,7 +85,7 @@
 		<hsqldb.version>2.7.0</hsqldb.version>
 		<mariadb-java-client.version>3.0.7</mariadb-java-client.version>
 		<hikari.version>5.0.1</hikari.version>
-		<shedlock.version>4.41.0</shedlock.version><!-- CANNOT BE UPGRADED DUE TO SPRING 4 Compatibility -->
+		<shedlock.version>4.42.0</shedlock.version><!-- CANNOT BE UPGRADED DUE TO SPRING 4 Compatibility -->
 		<shedlock-spring.version>${shedlock.version}</shedlock-spring.version>
 		<shedlock-provider-jdbc-template.version>${shedlock.version}</shedlock-provider-jdbc-template.version>
 
