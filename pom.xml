@@ -118,7 +118,7 @@
 		<xml-bind-api.version>2.3.3</xml-bind-api.version>
 		<jaxb-runtime.version>2.3.6</jaxb-runtime.version>
 		<aspectjweaver.version>1.9.9.1</aspectjweaver.version>
-		<sentry.version>6.4.1</sentry.version>
+		<sentry.version>6.4.2</sentry.version>
 
 		<!-- BUILD -->
 		<java.version>11</java.version>
